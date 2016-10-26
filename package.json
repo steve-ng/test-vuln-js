@@ -1,0 +1,22 @@
+{
+  "name": "test-vuln",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steve-ng/test-vuln-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steve-ng/test-vuln-js/issues"
+  },
+  "homepage": "https://github.com/steve-ng/test-vuln-js#readme",
+  "dependencies": {
+    "minimatch": "^0.3.0"
+  }
+}
